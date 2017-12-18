@@ -32,3 +32,6 @@ function add(y) {
 		return y + x;
 	}
 */
+/*
+11
+*/
