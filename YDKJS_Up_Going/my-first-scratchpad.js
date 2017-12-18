@@ -7,7 +7,6 @@
  * 3. Display to insert the result in a comment after the selection. (Ctrl+L)
  */
 var num = function(a,b){
-  return (a + b)
 }
 
 function makeAdder(x) {
@@ -16,7 +15,7 @@ function makeAdder(x) {
 	// inner function `add()` uses `x`, so
 	// it has a "closure" over it
 	function add(y) {
-		return y + x;
+		return y + x
 	};
 
 	return add;
