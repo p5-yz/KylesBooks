@@ -9,7 +9,26 @@
 var num = function(a,b){
   return (a + b)
 }
+
+function makeAdder(x) {
+	// parameter `x` is an inner variable
+
+	// inner function `add()` uses `x`, so
+	// it has a "closure" over it
+	function add(y) {
+		return y + x;
+	};
+
+	return add;
+}
 num(1,8)
+var add = makeAdder(4)
+add(7);
 /*
 9
+*/
+/*
+function add(y) {
+		return y + x;
+	}
 */
