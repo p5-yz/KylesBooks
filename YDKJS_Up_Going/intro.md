@@ -1,4 +1,4 @@
-##Code
+## Code
 
 Let's start from the beginning.
 
@@ -6,11 +6,11 @@ A program, often referred to as source code or just code, is a set of special in
 
 The rules for valid format and combinations of instructions is called a computer language, sometimes referred to as its syntax, much the same as English tells you how to spell words and how to create valid sentences using words and punctuation.
 
-##Statements
+## Statements
 
 In a computer language, a group of words, numbers, and operators that performs a specific task is a statement.
 
-##Expressions
+## Expressions
 
 Statements are made up of one or more expressions. An expression is any reference to a variable or value, or a set of variable(s) and value(s) combined with operators.
 
