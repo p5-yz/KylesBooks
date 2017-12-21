@@ -1,5 +1,5 @@
 
-## Chapter 1: Into to programming
+## Chapter 1: Into to Programming
 
 ## Code
 
